@@ -83,3 +83,13 @@ tests/title
 tests/vulkan
 tests/windows
 
+
+
+#Directories
+.vs/
+bin/
+bin-int/
+
+#Files
+*.user
+
